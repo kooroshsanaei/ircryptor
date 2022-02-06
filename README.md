@@ -1,14 +1,12 @@
-
+![Program Environment](https://s21.picofile.com/file/8447457168/IR_Cryptor.png)
 
 # ircrypor
-**encryption and dcryption in base64-hex-rot13 so useful**
+**For Encrypting and Dcrypting In base64 | Hex | Rot13 And soon for Findig the kind of encryption**
 
-# What is this
-* this is a good encryptor
-* useful
-* python3
-* Tested in parrot os
+# Tested On
+* Parrot Os
 
+![Program Environment](https://s20.picofile.com/file/8447457192/Save.png)
 # How TO Install
 * `git clone https://github.com/zerodey/ircrypor`
 * `python3 -r install requirements.txt`
